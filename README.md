@@ -43,4 +43,3 @@ To run the code
 - Install the dependencies using `pip install -r requirements.txt`
 - Run the file `app.py` using `python3 app.py` optional flags to run the file are:
 - Example: `python3 app.py`
-- 
